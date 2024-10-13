@@ -1,0 +1,33 @@
+{
+  "tabs": {
+    "identityDetails": "Identity Details",
+    "subscription": "Subscription",
+    "userDetails": "User Details",
+    "insuranceAndBilling": "Insurance & Billing",
+    "masterImport": "Master Import"
+  },
+  "identityDetails": {
+    "practiceName": "Practice Name",
+    "practiceType": "Practice Type",
+    "Specialty": "Specialty",
+    "practiceCode": "Practice Code",
+    "practiceEmail": "Practice Email",
+    "contactNumber": "Contact Number",
+    "contactPerson": "Contact Person",
+    "addDescription": "Add Description",
+    "btn": "Save & Next"
+  },
+  "insuranceAndBilling": {
+    "heading": "Select your Insurance Provider",
+    "selectPlaneHeading": "Choose your Insurance Plan"
+  },
+  "masterImport": {
+    "cardTitle": " Import Patients Data",
+    "step1": "Step 1",
+    "step1title": "Download the template and fill in respective data in it.",
+    "step2": "Step 2",
+    "step2title": "Upload the filled-in template. (Excel/CSV)",
+    "step3": "Step 3",
+    "step3title": "Refer the list page"
+  }
+}

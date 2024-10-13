@@ -1,0 +1,24 @@
+{
+  "tabs": {
+    "identityDetails": "Abracis",
+    "subscription": "Subscription",
+    "userDetails": "User Details",
+    "insuranceAndBilling": "Insurance & Billing",
+    "masterImport": "Master Import"
+  },
+  "identityDetails": {
+    "practiceName": "Practice Name",
+    "practiceType": "Practice Type",
+    "Specialty": "Specialty",
+    "practiceCode": "Practice Code",
+    "practiceEmail": "Practice Email",
+    "contactNumber": "Contact Number",
+    "contactPerson": "Contact Person",
+    "addDescription": "Add Description",
+    "btn": "Save & Next"
+  },
+  "insuranceAndBilling": {
+    "heading": "Select your Insurance Provider",
+    "selectPlaneHeading": "Choose your Insurance Plan"
+  }
+}

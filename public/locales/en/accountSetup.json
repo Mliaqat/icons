@@ -1,0 +1,10 @@
+{
+  "tabs": {
+    "serviceCategory": "Service Category",
+    "CptMaster": "CPT Master",
+    "serviceMaster": "Service Master",
+    "diagnosisMaster": "Diagnosis Master",
+    "itemCategory": "Item Category",
+    "drugAndConsumables": "Drug & Consumables"
+  }
+}

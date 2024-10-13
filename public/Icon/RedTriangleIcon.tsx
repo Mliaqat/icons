@@ -1,0 +1,17 @@
+import React from "react";
+
+function RedTriangleIcon() {
+  return (
+    <svg
+      width="10"
+      height="8"
+      viewBox="0 0 8 6"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path d="M4 0L7.4641 6H0.535898L4 0Z" fill="#F61313" />
+    </svg>
+  );
+}
+
+export default RedTriangleIcon;
